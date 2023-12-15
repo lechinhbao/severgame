@@ -34,7 +34,7 @@ app.use(session({
 
 
 
-mongoose.connect("mongodb+srv://lechinhbao3477:03040509@knightsadventure.wjl5tfn.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://lechinhbao3477:12092003@knight-astuventd.ajw8nms.mongodb.net/?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
